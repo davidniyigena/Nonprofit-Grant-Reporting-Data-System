@@ -1,1 +1,21 @@
-
+grant_id,grant_name,donor,program_area,region,reporting_period,grant_amount,amount_spent,beneficiaries_reached,reporting_status,compliance_issue
+G001,Community Health Access Grant,Global Health Fund,Health,East,Q1-2025,120000,98000,2400,Submitted,No
+G002,Youth Skills Development Grant,Future Skills Donor,Workforce Development,South,Q1-2025,85000,52000,850,Delayed,No
+G003,Primary Education Support Grant,Global Education Fund,Education,North,Q1-2025,150000,143000,3200,Submitted,No
+G004,Women Enterprise Support Grant,Inclusive Growth Fund,Economic Development,West,Q1-2025,95000,62000,700,Incomplete,Yes
+G005,Food Security Response Grant,Community Resilience Donor,Food Security,East,Q1-2025,110000,87000,1800,Submitted,No
+G006,Digital Learning Access Grant,Global Education Fund,Education,Kigali,Q2-2025,130000,102000,2100,Under Review,No
+G007,Maternal Health Outreach Grant,Global Health Fund,Health,South,Q2-2025,140000,129000,2600,Submitted,No
+G008,Small Business Recovery Grant,Inclusive Growth Fund,Economic Development,North,Q2-2025,100000,76000,950,Submitted,No
+G009,Youth Employment Pathways Grant,Future Skills Donor,Workforce Development,West,Q2-2025,90000,59000,780,Delayed,Yes
+G010,School Feeding Support Grant,Community Resilience Donor,Food Security,East,Q2-2025,125000,115000,3100,Submitted,No
+G011,Community Clinic Strengthening Grant,Global Health Fund,Health,Kigali,Q3-2025,160000,151000,2800,Submitted,No
+G012,Teacher Training Improvement Grant,Global Education Fund,Education,South,Q3-2025,145000,118000,1600,Under Review,No
+G013,Microfinance Access Grant,Inclusive Growth Fund,Economic Development,North,Q3-2025,105000,97000,1200,Submitted,No
+G014,Workforce Readiness Grant,Future Skills Donor,Workforce Development,West,Q3-2025,98000,72000,900,Incomplete,Yes
+G015,Nutrition Support Grant,Community Resilience Donor,Food Security,East,Q3-2025,115000,107000,2500,Submitted,No
+G016,Health Data Systems Grant,Global Health Fund,Health,Kigali,Q4-2025,135000,91000,1500,Delayed,No
+G017,STEM Education Grant,Global Education Fund,Education,North,Q4-2025,155000,139000,1900,Submitted,No
+G018,Rural Enterprise Growth Grant,Inclusive Growth Fund,Economic Development,South,Q4-2025,115000,84000,1100,Under Review,No
+G019,Job Placement Support Grant,Future Skills Donor,Workforce Development,West,Q4-2025,102000,69000,870,Delayed,Yes
+G020,Community Resilience Grant,Community Resilience Donor,Food Security,East,Q4-2025,128000,119000,2700,Submitted,No
