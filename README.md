@@ -204,6 +204,35 @@ The project is designed to support visuals such as:
 
 ---
 
+## Key Findings
+
+Based on the sample nonprofit grant reporting dataset and generated visualizations, the project highlights the following findings:
+
+1. **Grant funding is concentrated among several major donors.**  
+   The donor funding chart shows which donors contribute the largest total grant amounts, helping nonprofit teams understand donor funding concentration.
+
+2. **Education, health, and food security account for major spending areas.**  
+   The program-area spending chart shows where grant funds are being used across nonprofit program activities.
+
+3. **Spending rates vary across donors.**  
+   The donor spending-rate chart helps identify which donor-funded grants are progressing well and which may require additional spending review.
+
+4. **Most grant reports are submitted, but some require follow-up.**  
+   The reporting status summary helps identify delayed, incomplete, or under-review reports that may need management attention.
+
+5. **Compliance issues are limited but important to monitor.**  
+   The compliance issue chart shows whether any grants require additional documentation, review, or corrective action.
+
+6. **Beneficiary reach connects financial reporting with program impact.**  
+   The beneficiary analysis shows which program areas reached the most participants, helping connect spending data with program results.
+
+7. **Reporting-period trends help track grant performance over time.**  
+   The spending-rate trend by reporting period helps monitor whether grant implementation is improving, slowing down, or requiring follow-up.
+
+These findings demonstrate how Python, SQL, and dashboard-style analysis can support nonprofit grant management, donor reporting, compliance monitoring, and evidence-based decision-making.
+
+---
+
 ## How to Use This Project
 
 ### 1. Clone the repository
