@@ -177,6 +177,30 @@ The project is designed to support visuals such as:
 - Compliance issue summary
 - Beneficiaries reached by program area
 - Spending rate by reporting period
+---
+
+## Sample Visualizations
+
+### Total Grant Amount by Donor
+![Total Grant Amount by Donor](visuals/grant_amount_by_donor.png)
+
+### Amount Spent by Program Area
+![Amount Spent by Program Area](visuals/amount_spent_by_program_area.png)
+
+### Spending Rate by Donor
+![Spending Rate by Donor](visuals/spending_rate_by_donor.png)
+
+### Reporting Status Summary
+![Reporting Status Summary](visuals/reporting_status_summary.png)
+
+### Compliance Issue Summary
+![Compliance Issue Summary](visuals/compliance_issue_summary.png)
+
+### Beneficiaries Reached by Program Area
+![Beneficiaries Reached by Program Area](visuals/beneficiaries_by_program_area.png)
+
+### Spending Rate by Reporting Period
+![Spending Rate by Reporting Period](visuals/spending_rate_by_reporting_period.png)
 
 ---
 
